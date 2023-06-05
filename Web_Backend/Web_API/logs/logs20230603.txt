@@ -1,0 +1,183 @@
+2023-06-03 16:56:22.038 +03:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-06-03 16:56:23.077 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-06-03 16:56:23.265 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Phone'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-06-03 16:56:23.570 +03:00 [INF] Entity Framework Core 6.0.16 initialized 'PhonesDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: SensitiveDataLoggingEnabled 
+2023-06-03 16:56:23.627 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Phone'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-06-03 16:56:23.905 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 1}'.
+2023-06-03 16:56:23.908 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 2}'.
+2023-06-03 16:56:23.908 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 3}'.
+2023-06-03 16:56:23.908 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 4}'.
+2023-06-03 16:56:23.909 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 5}'.
+2023-06-03 16:56:23.909 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 6}'.
+2023-06-03 16:56:23.909 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 7}'.
+2023-06-03 16:56:23.909 +03:00 [DBG] Context 'PhonesDBContext' started tracking 'Phone' entity with key '{Id: 8}'.
+2023-06-03 16:56:23.990 +03:00 [DBG] DetectChanges starting for 'PhonesDBContext'.
+2023-06-03 16:56:24.019 +03:00 [DBG] DetectChanges completed for 'PhonesDBContext'.
+2023-06-03 16:56:24.180 +03:00 [DBG] Executing 8 update commands as a batch.
+2023-06-03 16:56:24.436 +03:00 [DBG] 'PhonesDBContext' disposed.
+2023-06-03 23:55:15.996 +03:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-06-03 23:55:17.298 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-06-03 23:55:17.454 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Phone'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-06-03 23:55:17.786 +03:00 [INF] Entity Framework Core 6.0.16 initialized 'PhonesDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.16' with options: SensitiveDataLoggingEnabled 
+2023-06-03 23:55:18.037 +03:00 [DBG] Migrating using database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:18.070 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:20.534 +03:00 [DBG] An error occurred using the connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:20.537 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:20.545 +03:00 [DBG] An error occurred using the connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:20.744 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Phone'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-06-03 23:55:20.852 +03:00 [DBG] Opening connection to database 'master' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:20.965 +03:00 [DBG] Opened connection to database 'master' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:20.990 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:21.028 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (25ms).
+2023-06-03 23:55:21.064 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [PhonesApi];
+2023-06-03 23:55:23.281 +03:00 [INF] Executed DbCommand (2,225ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [PhonesApi];
+2023-06-03 23:55:23.286 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:23.286 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:23.286 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [PhonesApi] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2023-06-03 23:55:24.006 +03:00 [INF] Executed DbCommand (719ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [PhonesApi] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2023-06-03 23:55:24.008 +03:00 [DBG] Closing connection to database 'master' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.023 +03:00 [DBG] Closed connection to database 'master' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.030 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.183 +03:00 [DBG] Opened connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.184 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:24.184 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:24.185 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-06-03 23:55:24.282 +03:00 [INF] Executed DbCommand (97ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-06-03 23:55:24.282 +03:00 [DBG] Closing connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.282 +03:00 [DBG] Closed connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.825 +03:00 [DBG] DetectChanges starting for 'PhonesDBContext'.
+2023-06-03 23:55:24.834 +03:00 [DBG] DetectChanges completed for 'PhonesDBContext'.
+2023-06-03 23:55:24.888 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:24.888 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:24.889 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.890 +03:00 [DBG] Opened connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:24.890 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2023-06-03 23:55:25.837 +03:00 [INF] Executed DbCommand (947ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2023-06-03 23:55:25.837 +03:00 [DBG] Closing connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.837 +03:00 [DBG] Closed connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.840 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.840 +03:00 [DBG] Opened connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.840 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:25.841 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:25.841 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-06-03 23:55:25.856 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2023-06-03 23:55:25.856 +03:00 [DBG] Closing connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.856 +03:00 [DBG] Closed connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.882 +03:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2023-06-03 23:55:25.882 +03:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2023-06-03 23:55:25.882 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.882 +03:00 [DBG] Opened connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.884 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-06-03 23:55:25.941 +03:00 [INF] Executed DbCommand (57ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2023-06-03 23:55:25.941 +03:00 [DBG] Closing connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.944 +03:00 [DBG] Closed connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.947 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-06-03 23:55:25.947 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2023-06-03 23:55:25.948 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.948 +03:00 [DBG] Opened connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:25.949 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2023-06-03 23:55:26.052 +03:00 [INF] Executed DbCommand (102ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2023-06-03 23:55:26.055 +03:00 [DBG] A data reader was disposed.
+2023-06-03 23:55:26.055 +03:00 [DBG] Closing connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:26.055 +03:00 [DBG] Closed connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:26.122 +03:00 [INF] Applying migration '20230603135624_init'.
+2023-06-03 23:55:26.231 +03:00 [DBG] Opening connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:26.231 +03:00 [DBG] Opened connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:26.234 +03:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2023-06-03 23:55:26.262 +03:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2023-06-03 23:55:26.264 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:26.265 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:26.266 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Phones] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [PhotoLink] nvarchar(max) NOT NULL,
+    [Link] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Phones] PRIMARY KEY ([Id])
+);
+2023-06-03 23:55:26.498 +03:00 [INF] Executed DbCommand (230ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Phones] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [PhotoLink] nvarchar(max) NOT NULL,
+    [Link] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Phones] PRIMARY KEY ([Id])
+);
+2023-06-03 23:55:26.502 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:26.502 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:26.503 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Link', N'Name', N'PhotoLink', N'Price') AND [object_id] = OBJECT_ID(N'[Phones]'))
+    SET IDENTITY_INSERT [Phones] ON;
+INSERT INTO [Phones] ([Id], [Link], [Name], [PhotoLink], [Price])
+VALUES (1, N'https://www.apple.com/uk/', N'Iphone 13 Starlight', N'https://ik.imagekit.io/Salivon/iphone-13-starlight-select-2021.png?updatedAt=1680173452417', 1000.0),
+(2, N'https://www.apple.com/uk/', N'Iphone 13 Pro Max Graphite', N'https://ik.imagekit.io/Salivon/iphone-13-pro-max-graphite-select_5.png?updatedAt=1680173452418', 1000.0),
+(3, N'https://www.apple.com/uk/', N'Iphone 12 Red', N'https://ik.imagekit.io/Salivon/iphone-12-red_1_.jpeg?updatedAt=1680173452357', 1000.0),
+(4, N'https://www.apple.com/uk/', N'Iphone 14 Midnight', N'https://ik.imagekit.io/Salivon/iphone-14-finish-select-202209-6-1inch-midnight.png?updatedAt=1680173452344', 1000.0),
+(5, N'https://www.apple.com/uk/', N'Iphone 14 Pro Max Gold', N'https://ik.imagekit.io/Salivon/14pro-promax-gold-1_2.jpeg?updatedAt=1680173452309', 1000.0),
+(6, N'https://www.apple.com/uk/', N'Iphone 14 Pro Max Purple', N'https://ik.imagekit.io/Salivon/14pro-promax-purple-1_5.jpeg?updatedAt=1680173452314', 1000.0),
+(7, N'https://www.apple.com/uk/', N'Iphone 13 Blue', N'https://ik.imagekit.io/Salivon/iphone-13-blue-select-2021.png?updatedAt=1680173452308', 1000.0),
+(8, N'https://www.apple.com/uk/', N'Iphone 11 Black', N'https://ik.imagekit.io/Salivon/iphone11-black-select1-2019_2_3.jpeg?updatedAt=1680173452241', 1000.0);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Link', N'Name', N'PhotoLink', N'Price') AND [object_id] = OBJECT_ID(N'[Phones]'))
+    SET IDENTITY_INSERT [Phones] OFF;
+2023-06-03 23:55:27.859 +03:00 [INF] Executed DbCommand (1,356ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Link', N'Name', N'PhotoLink', N'Price') AND [object_id] = OBJECT_ID(N'[Phones]'))
+    SET IDENTITY_INSERT [Phones] ON;
+INSERT INTO [Phones] ([Id], [Link], [Name], [PhotoLink], [Price])
+VALUES (1, N'https://www.apple.com/uk/', N'Iphone 13 Starlight', N'https://ik.imagekit.io/Salivon/iphone-13-starlight-select-2021.png?updatedAt=1680173452417', 1000.0),
+(2, N'https://www.apple.com/uk/', N'Iphone 13 Pro Max Graphite', N'https://ik.imagekit.io/Salivon/iphone-13-pro-max-graphite-select_5.png?updatedAt=1680173452418', 1000.0),
+(3, N'https://www.apple.com/uk/', N'Iphone 12 Red', N'https://ik.imagekit.io/Salivon/iphone-12-red_1_.jpeg?updatedAt=1680173452357', 1000.0),
+(4, N'https://www.apple.com/uk/', N'Iphone 14 Midnight', N'https://ik.imagekit.io/Salivon/iphone-14-finish-select-202209-6-1inch-midnight.png?updatedAt=1680173452344', 1000.0),
+(5, N'https://www.apple.com/uk/', N'Iphone 14 Pro Max Gold', N'https://ik.imagekit.io/Salivon/14pro-promax-gold-1_2.jpeg?updatedAt=1680173452309', 1000.0),
+(6, N'https://www.apple.com/uk/', N'Iphone 14 Pro Max Purple', N'https://ik.imagekit.io/Salivon/14pro-promax-purple-1_5.jpeg?updatedAt=1680173452314', 1000.0),
+(7, N'https://www.apple.com/uk/', N'Iphone 13 Blue', N'https://ik.imagekit.io/Salivon/iphone-13-blue-select-2021.png?updatedAt=1680173452308', 1000.0),
+(8, N'https://www.apple.com/uk/', N'Iphone 11 Black', N'https://ik.imagekit.io/Salivon/iphone11-black-select1-2019_2_3.jpeg?updatedAt=1680173452241', 1000.0);
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Link', N'Name', N'PhotoLink', N'Price') AND [object_id] = OBJECT_ID(N'[Phones]'))
+    SET IDENTITY_INSERT [Phones] OFF;
+2023-06-03 23:55:27.861 +03:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-03 23:55:27.861 +03:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-03 23:55:27.861 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20230603135624_init', N'6.0.16');
+2023-06-03 23:55:28.187 +03:00 [INF] Executed DbCommand (326ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20230603135624_init', N'6.0.16');
+2023-06-03 23:55:28.190 +03:00 [DBG] Committing transaction.
+2023-06-03 23:55:28.223 +03:00 [DBG] Committed transaction.
+2023-06-03 23:55:28.226 +03:00 [DBG] Disposing transaction.
+2023-06-03 23:55:28.226 +03:00 [DBG] Closing connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:28.226 +03:00 [DBG] Closed connection to database 'PhonesApi' on server 'DESKTOP-HAL50HT'.
+2023-06-03 23:55:28.231 +03:00 [DBG] 'PhonesDBContext' disposed.

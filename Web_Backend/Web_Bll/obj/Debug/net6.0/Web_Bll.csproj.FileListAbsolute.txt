@@ -1,0 +1,15 @@
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\bin\Debug\net6.0\Web_Bll.deps.json
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\bin\Debug\net6.0\Web_Bll.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\bin\Debug\net6.0\ref\Web_Bll.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\bin\Debug\net6.0\Web_Bll.pdb
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\bin\Debug\net6.0\Web_Dal.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\bin\Debug\net6.0\Web_Dal.pdb
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.csproj.AssemblyReference.cache
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.AssemblyInfoInputs.cache
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.AssemblyInfo.cs
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.csproj.CoreCompileInputs.cache
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.csproj.CopyComplete
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\ref\Web_Bll.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Bll\obj\Debug\net6.0\Web_Bll.pdb

@@ -1,0 +1,14 @@
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\bin\Debug\net6.0\Web_Dal.deps.json
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\bin\Debug\net6.0\Web_Dal.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\bin\Debug\net6.0\ref\Web_Dal.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\bin\Debug\net6.0\Web_Dal.pdb
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.csproj.AssemblyReference.cache
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.AssemblyInfoInputs.cache
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.AssemblyInfo.cs
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.csproj.CoreCompileInputs.cache
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\ref\Web_Dal.dll
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.pdb
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\bin\Debug\net6.0\Web_Dal.runtimeconfig.json
+C:\Users\saliv\OneDrive\Рабочий стол\EShop\Web_Backend\Web_Dal\obj\Debug\net6.0\Web_Dal.genruntimeconfig.cache

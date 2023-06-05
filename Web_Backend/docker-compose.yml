@@ -1,0 +1,38 @@
+version: "3.8"
+
+services:
+ api:
+  image: phones_api_image
+  restart: unless-stopped
+  container_name: phones_api_container
+  build:
+   context: .
+   dockerfile: Web_API/Dockerfile
+  ports:
+  - "8080:80" 
+  depends_on:
+  - db
+  networks:
+  - phones_net
+  environment:
+   - ASPNETCORE_ENVIRONMENT=Release
+ db:
+  image: mcr.microsoft.com/mssql/server:2022-latest
+  container_name: phones_db_container
+  ports: 
+  - "1433:1433"
+  environment:
+  - SA_PASSWORD=Password123
+  - ACCEPT_EULA=Y
+  networks:
+  - phones_net
+  volumes:
+  - phones_db_container:/var/lib/mssql/data
+
+networks:
+ phones_net:
+  driver: bridge
+
+volumes:
+  phones_db_container:
+
