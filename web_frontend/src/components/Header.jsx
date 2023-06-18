@@ -1,6 +1,8 @@
 import Card from './Card';
-
+import { useState } from 'react';
 export default function Header(){
+    const [cardState, setCardState] = useState(false);
+
 
     return (
         <header>
@@ -17,9 +19,14 @@ export default function Header(){
             </form>
         </div>  
 
-           <Card /> 
+           <Card card call={cardState} onDestroy={() => setCardState(false)}/> 
         <div className="centerItems shopping">   
-            <button className="cartButton button"></button>
+            <button className="cartButton button"
+            onClick={
+                () => {
+                    setCardState(true)
+                }
+            }></button>
             <span className="quantity">0</span>
         </div>
         </header>

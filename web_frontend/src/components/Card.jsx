@@ -1,5 +1,8 @@
-export default function Card(){
+export default function Card({call, onDestroy}){
 
+    if (!call){
+        return null;
+    }
     return (
         //className="modal-wrapper"
         <div>
@@ -10,7 +13,8 @@ export default function Card(){
             </div>
             <div className="checkOut">
                 <div className="total">0</div>
-                <div className="closeShopping">Close</div>
+                <div className="closeShopping"
+                onClick={onDestroy}>Close</div>
             </div>
         </div>
     </div>
