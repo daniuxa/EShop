@@ -1,9 +1,13 @@
 import Card from './Card';
 import { useState } from 'react';
+import { useSelector } from "react-redux";
+
 export default function Header(){
     const [cardState, setCardState] = useState(false);
-
-
+    const productsInCard = useSelector((state) => 
+    {
+        return state.productsValue.productsInCard;
+    }); 
     return (
         <header>
             <div className="centerItems">
@@ -26,9 +30,9 @@ export default function Header(){
                     setCardState(true)
                 }
             }></button>
-            <span className="quantity">0</span>
+            <span className="quantity">{productsInCard.length}</span>
         </div>
-        <Card card call={cardState} onDestroy={() => setCardState(false)}/> 
+        <Card call={cardState} onDestroy={() => setCardState(false)}/> 
 
         </header>
     );
