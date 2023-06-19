@@ -19,7 +19,6 @@ export default function Header(){
             </form>
         </div>  
 
-           <Card card call={cardState} onDestroy={() => setCardState(false)}/> 
         <div className="centerItems shopping">   
             <button className="cartButton button"
             onClick={
@@ -29,6 +28,8 @@ export default function Header(){
             }></button>
             <span className="quantity">0</span>
         </div>
+        <Card card call={cardState} onDestroy={() => setCardState(false)}/> 
+
         </header>
     );
 }

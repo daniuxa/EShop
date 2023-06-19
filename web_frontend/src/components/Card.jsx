@@ -5,8 +5,8 @@ export default function Card({call, onDestroy}){
     }
     return (
         //className="modal-wrapper"
-        <div>
-        <div className="card active">
+        <div className="modal">
+        <div className="card">
             <h1>Card</h1>
             <div className="list">
                 <ul className="listCard"></ul>
