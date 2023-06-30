@@ -3062,11 +3062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_API\\Web_API.csproj",
+      "projectUniqueName": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_API\\Web_API.csproj",
       "projectName": "Web_API",
-      "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_API\\Web_API.csproj",
+      "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_API\\Web_API.csproj",
       "packagesPath": "C:\\Users\\saliv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_API\\obj\\",
+      "outputPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saliv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3083,11 +3083,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj": {
-              "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj"
+            "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj": {
+              "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj"
             },
-            "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj": {
-              "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj"
+            "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj": {
+              "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj"
             }
           }
         }

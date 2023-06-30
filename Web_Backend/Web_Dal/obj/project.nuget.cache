@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ATdxRKluPRm9lenYZnP16v6tOxz03bRnHZjt61Wln1hdtvYNkXvyAcYw3rj1X2f2FeD3nZtzZJc7K7OIEKFYLw==",
+  "dgSpecHash": "i26nT+UA2BihFJoRO3lVrZ+piTgG6njFcgUgKpFekSXb4c6OLJNSBow8fFJTgwWsBWXrqlc9RNoOqvsNCEViRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj",
+  "projectFilePath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saliv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\saliv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

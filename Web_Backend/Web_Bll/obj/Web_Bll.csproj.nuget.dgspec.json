@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj": {}
+    "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj": {
+    "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj",
+        "projectUniqueName": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj",
         "projectName": "Web_Bll",
-        "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj",
+        "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj",
         "packagesPath": "C:\\Users\\saliv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\obj\\",
+        "outputPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saliv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj": {
-                "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj"
+              "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj": {
+                "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj": {
+    "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj",
+        "projectUniqueName": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj",
         "projectName": "Web_Dal",
-        "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj",
+        "projectPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\Web_Dal.csproj",
         "packagesPath": "C:\\Users\\saliv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Dal\\obj\\",
+        "outputPath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Dal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saliv\\AppData\\Roaming\\NuGet\\NuGet.Config",

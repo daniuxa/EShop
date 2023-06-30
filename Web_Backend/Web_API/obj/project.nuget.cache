@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MF/2vH2FoT0SsurteEg3y7f9WQlaa/8BFu6E0xLkog54FlRfW4ORW8HRml7JkkVhOBlA2f4PrROUdHeDdL6xWA==",
+  "dgSpecHash": "2aGRAJmgrAlUS8x0xU+l9NGy/DRrLjql+DPuFUNuClS0DJf5FVo14+aGxLqECtR+OlonZaudwP3iwbRMVULo2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_API\\Web_API.csproj",
+  "projectFilePath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_API\\Web_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saliv\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\saliv\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.16\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.16.nupkg.sha512",

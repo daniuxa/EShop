@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJm4JVRctGsiCqgDHysIH2xvZqcOWmFV0IahotRfYahWcf07PeMGxYejijBCb3H5Oo0kSxaep8lTUx+et5PARA==",
+  "dgSpecHash": "5kCiE504v1QHc+CYBoZuzGj04jIQqW6nxQcavG1+Ih2DkTQgyI3mp4zl2ngTR++udztblT6Vp9MPJORI583/9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj",
+  "projectFilePath": "C:\\Users\\saliv\\OneDrive\\Рабочий стол\\ReactApps\\EShop\\EShop\\Web_Backend\\Web_Bll\\Web_Bll.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saliv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\saliv\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
